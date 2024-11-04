@@ -20,7 +20,7 @@ My research interests are in development economics, health economics, and urban 
 ## Teaching
 ### Independent Instructor
 - AEDE 2005, Data Analysis for Agribusiness & Applied Economics
-  - Spring 2023
+  - Spring 23
   
 ### Lab Instructor
 - AEDE 2005, Data Analysis for Agribusiness & Applied Economics
