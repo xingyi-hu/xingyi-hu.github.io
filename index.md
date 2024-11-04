@@ -24,12 +24,12 @@ My research interests are in development economics, health economics, and urban 
   
 ### Lab Instructor
 - AEDE 2005, Data Analysis for Agribusiness & Applied Economics
-  - Fall 22, 23, 24 ; Spring 24
+  - Fall 22, 23, 24; Spring 24
 
 ### Teaching Assistant
-- AEDE 2105 Managerial Records and Analysis
+- AEDE 2105, Managerial Records and Analysis
   - Spring 22
-- AEDE 4567 Assessing Sustainability
+- AEDE 4567, Assessing Sustainability
   - Fall 21
 
   
