@@ -12,7 +12,7 @@ My research interests are in development economics, health economics, and urban 
 ## Education
 - **The Ohio State University** - Ph.D. in Agricultural, Environmental, and Development Economics (2020 - Current)   
 - **Cornell University** - M.S. in Applied Economics and Management (2018 - 2020)   
-- **Nankai University** - (Dual-degree) B.A. in Translation and B.A. in Economics (2014 - 2018)   
+- **Nankai University** - (Dual-degree) B.A. in Economics and B.A. in Translation (2014 - 2018)   
 
 ## Working Paper
 - Fetal Pollution Exposure, Cognitive Ability, and Gender-specific Parental Investment (with Xin Zhang, Yixuan Wang, and Xi Chen) ([Draft](https://ssrn.com/abstract=4954147))
