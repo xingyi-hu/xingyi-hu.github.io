@@ -4,13 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the [Department of Agricultural, Environmental, and Development Economics](https://aede.osu.edu/home) at The Ohio State University.      
+I am a Ph.D. candidate in the [Department of Agricultural, Environmental, and Development Economics](https://aede.osu.edu/home) at The Ohio State University.      
       
-My research interests are in development economics, health economics, and urban economics.         
+My research interests are in development economics and health economics.         
 
 
 ## Education
-- **The Ohio State University** - Ph.D. in Agricultural, Environmental, and Development Economics (2020 - Current)   
+- **The Ohio State University** - Ph.D. in Agricultural, Environmental, and Development Economics (2020 - Current)
+- **The University of Texas at Austin** - M.S. in Data Science (2024 - 2025)
 - **Cornell University** - M.S. in Applied Economics and Management (2018 - 2020)   
 - **Nankai University** - (Dual-degree) B.A. in Economics and B.A. in Translation (2014 - 2018)   
 
@@ -24,7 +25,7 @@ My research interests are in development economics, health economics, and urban 
   
 ### Lab Instructor
 - AEDE 2005, Data Analysis 
-  - Fall 22, 23, 24; Spring 24
+  - Fall 22, 23, 24; Spring 24, 25
 
 ### Teaching Assistant
 - AEDE 2105, Managerial Records and Analysis
